@@ -10,4 +10,5 @@ class Shoe
   
   def shoe_cobble 
     puts ""
+  end 
 end 
